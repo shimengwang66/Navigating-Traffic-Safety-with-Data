@@ -1,1 +1,5 @@
-# Navigating-Traffic-Safety-with-Data
+## NYC Crash Compass: Navigating Traffic Safety with Data
+In this project we aim to build a data warehouse and analytical dashboard based on the Motor Vehicle Collisions Crashes dataset from New York City. The dataset, sourced from NYC OpenData, includes  NYPD-reported information on motor vehicle collisions.
+The project requires loading and analyzing the data in Snowflake, designing a dimensional model, and developing SQL queries to calculate key performance indicators (KPIs) on crashes by area, contributing factors, vehicle types, and injury/fatality rates.
+Interactive Tableau dashboards were created to visualize the KPIs across time period and geography. The dashboards provide an analytical tool to derive insights for improving traffic safety, aligning with NYC's Vision Zero initiative.
+Challenges included the dataset size and the preliminary nature of the NYPD data. This final report and the Tableau dashboards demonstrate the application of data warehousing and visualization techniques to develop an analytics solution from a real-world dataset.
